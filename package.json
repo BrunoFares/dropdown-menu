@@ -1,0 +1,22 @@
+{
+  "name": "dropdown-generator",
+  "version": "1.0.1",
+  "description": "Generates a dropdown menu following given input.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+ssh://git@github.com/BrunoFares/dropdown-menu.git"
+  },
+  "keywords": [
+    "DDM"
+  ],
+  "author": "Bruno Fares",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/BrunoFares/dropdown-menu/issues"
+  },
+  "homepage": "https://github.com/BrunoFares/dropdown-menu#readme"
+}
